@@ -6,34 +6,26 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://bobicheng-zhang.github.io
 
 project_entries:
-  - title: Project 1
+  - title: Effects of Color Bias on Emotional Face Perception
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: 2017~2018
 
-  - title: Project 2
+  - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: 2018~2020
 
-  - title: Project 3
+  - title: Effects of Knowledge on Bistable Perception of Structure-from-Motion
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 2020~2022
 
-  - title: Project 4
+  - title: Oculomotor Response to Structure-from-Motion
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: This project is ongoing.
+    highlight: Yo
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -54,17 +46,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Beau's Homepage
+    url: https://www.bobicheng-zhang.github.io
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Twitter
+    url: https://twitter.com/Beau_Zh
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: GitHub
+    url: https://github.com/Bobicheng-Zhang
 
-  - title: feed
-    url: feed.xml
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bobichengzhang/
 
 misc_entries:
   - title: this is an example vertical list
