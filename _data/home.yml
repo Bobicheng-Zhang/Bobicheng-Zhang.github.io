@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: Oh, well
+    url: https://bobicheng-zhang.github.io
 
-  - title: blog
-    url: blog
+  - title: there goes
+    url: https://bobicheng-zhang.github.io
 
-  - title: website
+  - title: nothing
     url: https://bobicheng-zhang.github.io
 
 project_entries:
@@ -27,7 +27,7 @@ project_entries:
     highlight: Yo
 
 
-old_project_entries:
+other_GH_entries:
   - title: Soopr
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
@@ -37,13 +37,6 @@ old_project_entries:
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: Beau's Homepage
@@ -72,7 +65,7 @@ misc_entries:
     post_list: true
     url: false
 
-  - title: moonwalk on the Internet
+  - title: Eh
     url: false
     entries:
       - title: on Github
