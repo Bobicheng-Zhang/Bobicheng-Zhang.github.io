@@ -1,41 +1,35 @@
 navbar_entries:
-  - title: Oh, well
+  - title: Home
     url: https://bobicheng-zhang.github.io
 
-  - title: there goes
-    url: https://bobicheng-zhang.github.io
+  - title: Brascamp Visual Neurosicence Lab
+    url: http://psychology.psy.msu.edu/brascamplab/
 
   - title: nothing
     url: https://bobicheng-zhang.github.io
 
 project_entries:
   - title: Effects of Color Bias on Emotional Face Perception
-    url: overview-post
     desc: 2017~2018
 
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
-    url: overview-post
+    url: https://jov.arvojournals.org/article.aspx?articleid=2777912
     desc: 2018~2020
 
   - title: Effects of Knowledge on Bistable Perception of Structure-from-Motion
-    url: overview-post
+    url: https://www.sciencedirect.com/user/identity/landing?code=x5TuG1KqsuUEbgt6kEJEGdTw14Bt62Mmw8dGVB4p&state=retryCounter%3D0%26csrfToken%3Da92acf98-5031-42b2-b937-fe05a7da409d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698922001249%26prompt%3Dnone%26cid%3Darp-82756ecd-9e5a-42e5-addd-8f439818e128
     desc: 2020~2022
 
   - title: Oculomotor Response to Structure-from-Motion
     url: overview-post
-    desc: This project is ongoing.
+    desc: Ongoing
     highlight: Yo
 
 
-other_GH_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+blog_entries:
+  - title: Bistable Perception
+    desc: The chaos that is human perception.
     highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
 
 
 footer_entries:
