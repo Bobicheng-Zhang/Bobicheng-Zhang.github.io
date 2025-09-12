@@ -9,9 +9,15 @@ navbar_entries:
     url: https://bobicheng-zhang.github.io/about/
 
 project_entries:
-  - title: Effects of Color Bias on Emotional Face Perception
-    desc: 2017~2018
+  - title: Displacement-based OKN analysis
+    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
+    desc: Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability
 
+  - title: Mechanistic isolation of switch-related pupil response
+    highlight: Dissertation
+
+
+blog_entries:
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
     url: https://jov.arvojournals.org/article.aspx?articleid=2777912
     desc: 2018~2020
@@ -22,16 +28,11 @@ project_entries:
 
   - title: "The pupil response to perceptual switches: What happens when you ignore them"
     url: https://jov.arvojournals.org/article.aspx?articleid=2809181
-    desc: 2023-2025
+    desc: The pupil has been found to dilate after switches in bistable perception, prompting the suggestion that norepinephrine-based neuromodulation plays a causal role in those switches. However, the pupil dilates in response to task-relevant events in general, and, in existing work, perceptual switches were typically task-relevant (e.g., they had to be reported). As such, observed switch-related dilations may have reflected nonspecific task relevance rather than switch-specific processes. Here, we measured pupil responses to perceptual switches that were task-irrelevant. Observers viewed a rotating structure-from-motion sphere consisting of equilateral triangles that inverted at semi-random intervals. In separate conditions, observers either reported perceptual switches (rendering them task-relevant) or reported changes in the triangles' orientation (rendering the switches task-irrelevant). We then used observers’ optokinetic nystagmus to infer perceptual switch moments, even when observers did not report them. Control analyses confirm the reliability of this method. We found that task-relevant switches were followed by pupil dilations, but task-irrelevant ones were not. These results suggest that pupil-associated neuromodulation, although closely linked to task-relevant events, may not have any specific tie with perceptual bistability. These results are consistent with results we recently reported for binocular rivalry, indicating commonality across distinct forms of perceptual bistability.
 
-  - title: Mechanistic isolation of switch-related pupil response
-    highlight: Dissertation
-
-
-blog_entries:
-  - title: Bistable Perception
-    desc: The chaos that is human perception.
-    highlight: NEW
+  - title: Widespread lack of article accessibility policies among ecology and evolution journals
+    url: https://www.nature.com/articles/s41559-025-02694-8
+    desc: Recent work has illuminated huge inequities in academic publishing based on author demographics such as assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation. Our survey signals an urgent need for widespread journal policy reforms that require authors to format their manuscripts according to Universal Design principles. As a starting point to improving manuscript accessibility, we provide an accessibility checklist for authors to reference when preparing manuscripts. We conclude with recommendations for an iterative process of reform in collaboration with the disability community.
 
 
 footer_entries:

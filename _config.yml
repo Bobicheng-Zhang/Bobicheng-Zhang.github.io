@@ -1,4 +1,4 @@
-title: Beau's homepage
+title: Beau's Homepage
 author: Beau Zhang
 url: https://www.bobicheng-zhang.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
@@ -33,9 +33,9 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_proj: Projects
-    title_pubs: Publications
-    title_edu: Education
+    title_projects: Projects
+    title_blog: Publications
+    title_old_projects: Education
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
