@@ -20,8 +20,8 @@ project_entries:
     url: https://www.sciencedirect.com/user/identity/landing?code=x5TuG1KqsuUEbgt6kEJEGdTw14Bt62Mmw8dGVB4p&state=retryCounter%3D0%26csrfToken%3Da92acf98-5031-42b2-b937-fe05a7da409d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698922001249%26prompt%3Dnone%26cid%3Darp-82756ecd-9e5a-42e5-addd-8f439818e128
     desc: 2020~2022
 
-  - title: Oculomotor Response to Structure-from-Motion
-    url: overview-post
+  - title: "The pupil response to perceptual switches: What happens when you ignore them"
+    url: https://jov.arvojournals.org/article.aspx?articleid=2809181
     desc: Ongoing
     highlight: Yo
 
