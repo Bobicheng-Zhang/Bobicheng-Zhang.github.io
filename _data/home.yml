@@ -5,8 +5,8 @@ navbar_entries:
   - title: Brascamp Visual Neurosicence Lab
     url: http://psychology.psy.msu.edu/brascamplab/
 
-  - title: nothing
-    url: https://bobicheng-zhang.github.io
+  - title: About Me
+    url: https://bobicheng-zhang.github.io/about/
 
 project_entries:
   - title: Effects of Color Bias on Emotional Face Perception
@@ -22,8 +22,10 @@ project_entries:
 
   - title: "The pupil response to perceptual switches: What happens when you ignore them"
     url: https://jov.arvojournals.org/article.aspx?articleid=2809181
-    desc: Ongoing
-    highlight: Yo
+    desc: 2023-2025
+
+  - title: Mechanistic isolation of switch-related pupil response
+    highlight: Dissertation
 
 
 blog_entries:
