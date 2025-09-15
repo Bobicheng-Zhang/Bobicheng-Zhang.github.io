@@ -9,15 +9,6 @@ navbar_entries:
     url: https://bobicheng-zhang.github.io/about/
 
 project_entries:
-  - title: Displacement-based OKN analysis
-    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
-    desc: Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability
-
-  - title: Mechanistic isolation of switch-related pupil response
-    highlight: Dissertation
-
-
-blog_entries:
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
     url: https://jov.arvojournals.org/article.aspx?articleid=2777912
     desc: 2018~2020
@@ -34,6 +25,17 @@ blog_entries:
     url: https://www.nature.com/articles/s41559-025-02694-8
     desc: Recent work has illuminated huge inequities in academic publishing based on author demographics such as assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation. Our survey signals an urgent need for widespread journal policy reforms that require authors to format their manuscripts according to Universal Design principles. As a starting point to improving manuscript accessibility, we provide an accessibility checklist for authors to reference when preparing manuscripts. We conclude with recommendations for an iterative process of reform in collaboration with the disability community.
 
+  - title: Displacement-based OKN analysis
+    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
+    desc: Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability
+
+  - title: Mechanistic isolation of switch-related pupil response
+    highlight: Dissertation
+
+
+blog_entries:
+
+
 
 footer_entries:
   - title: Beau's Homepage
@@ -46,7 +48,7 @@ footer_entries:
     url: https://github.com/Bobicheng-Zhang
 
   - title: LinkedIn
-    url: https://www.linkedin.com/in/bobichengzhang/
+    url: https://www.linkedin.com/in/zbbc/
 
 misc_entries:
   - title: this is an example vertical list
