@@ -2,7 +2,7 @@ ul.horizontal-list {
   display: flex;
   //justify-content: space-between;
   margin-top: 0em;
-  margin-left: -40px;
+  margin-left: 40px;
   flex-wrap: wrap;
 
   li {
@@ -18,8 +18,8 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 1em;
-  border: 1px var(--text) solid;
+  padding: 2em;
+  border: 2px var(--text) solid;
   width: 30em;
   height: auto;
   text-align: center;
