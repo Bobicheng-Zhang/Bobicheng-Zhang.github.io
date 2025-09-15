@@ -18,34 +18,43 @@ project_entries:
     desc: "Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability focusing on 
     using horizontal displacement relative to vertical displacement as a proxy for perceived direction"
 
+  - title: Small Business Resilience in Colorado
+    url: https://github.com/Bobicheng-Zhang/SBRI_2021-2023_analysis
+    desc: "An attempt to create a composite resilience scores for small businesses in Colorado, including components 
+    such as cultural well-being, technological adoption, individual resilience, human capital, and financial and 
+    physical health"
+
   - title: Velocity-based OKN analysis
     url: https://github.com/Bobicheng-Zhang/OKN-processing-velocity
     desc: "Velocity-based gaze processing for optokinetic nystagmus during perceptual bistability using velocity 
     permutations and per-observer velocity threshold to identify perceptual switches"
-    highlight: NEW
 
   - title: Mechanistic isolation of switch-related pupil response
     desc: "Introducing disparity-simulated perceptual switches to investigate the mechanisms underlying pupil 
     responses accompanying spontaneous perceptual switches"
-    highlight: Dissertation
+    highlight: Dissertation!
 
+blog_entries:
+
+  - title: College of Social Science Access Torch
+    url: https://psychology.msu.edu/news-events/news/access-torch-beau-zhang.html
+
+  - title: March Educator of the Month
+    url: https://grad.msu.edu/spotlights/educator-month-march-2025-bobicheng-beau-zhang
 
 old_project_entries:
 
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
     url: https://jov.arvojournals.org/article.aspx?articleid=2777912
     desc: "Competing rivalrous neural representations can be resolved at several levels of the visual system.
-    Sustained percepts during interocular-switch rivalry(ISR),in which rivalrous left- and right-eye stimuli swap 
+    Sustained percepts during interocular-switch rivalry (ISR), in which rivalrous left- and right-eye stimuli swap 
     between eyes several times a second, often are attributed to competing binocularly driven neural representations of
-    each rivalrous stimulus. Here,a range of experimental conditions was tested that would change the colors seen if 
-    mediated by eye dominance but not if by competition between binocularly driven responses"
+    each rivalrous stimulus. Here, a range of experimental conditions was tested that would change the colors seen if 
+    mediated by eye dominance but not if by competition between binocularly driven responses."
 
   - title: Effects of Knowledge on Bistable Perception of Structure-from-Motion
     url: https://www.sciencedirect.com/user/identity/landing?code=x5TuG1KqsuUEbgt6kEJEGdTw14Bt62Mmw8dGVB4p&state=retryCounter%3D0%26csrfToken%3Da92acf98-5031-42b2-b937-fe05a7da409d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698922001249%26prompt%3Dnone%26cid%3Darp-82756ecd-9e5a-42e5-addd-8f439818e128
-    desc: "Theories of such so-called multistable perception broadly fall into two categories: top-down theories that 
-    emphasize dependence on higher-level cognitive factors such as knowledge, and bottom-up theories that suggest 
-    more vital involvement of aspects of lower-order information processing such as adaptation in the visual system. 
-    We revisited a body of work that shows the occurrence of perceptual reversals to depend dramatically on the 
+    desc: "We revisited a body of work that shows the occurrence of perceptual reversals to depend dramatically on the 
     observer’s knowledge that the input is, indeed, ambiguous: without such knowledge many observers in that work did
      not experience any reversals, in apparent conflict with the idea that reversals are inevitable. We used an 
      ambiguous animation that allowed subjects to report perceptual reversals without realizing the ambiguity."
