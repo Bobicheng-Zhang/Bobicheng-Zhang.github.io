@@ -5,6 +5,9 @@ navbar_entries:
   - title: Brascamp Visual Neurosicence Lab
     url: http://psychology.psy.msu.edu/brascamplab/
 
+  - title: CV
+    url: /assets/documents/cv.pdf
+    
   - title: About Me
     url: /about
 
