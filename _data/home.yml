@@ -9,6 +9,26 @@ navbar_entries:
     url: /about
 
 project_entries:
+
+  - title: Displacement-based OKN analysis
+    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
+    desc: "Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability focusing on 
+    using horizontal displacement relative to vertical displacement as a proxy for perceived direction"
+
+  - title: Velocity-based OKN analysis
+    url: https://github.com/Bobicheng-Zhang/OKN-processing-velocity
+    desc: "Velocity-based gaze processing for optokinetic nystagmus during perceptual bistability using velocity 
+    permutations and per-observer velocity threshold to identify perceptual switches"
+    highlight: NEW
+
+  - title: Mechanistic isolation of switch-related pupil response
+    desc: "Introducing disparity-simulated perceptual switches to investigate the mechanisms underlying pupil 
+    responses accompanying spontaneous perceptual switches"
+    highlight: Dissertation
+
+
+old_project_entries:
+
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
     url: https://jov.arvojournals.org/article.aspx?articleid=2777912
     desc: "Competing rivalrous neural representations can be resolved at several levels of the visual system.
@@ -21,30 +41,29 @@ project_entries:
     url: https://www.sciencedirect.com/user/identity/landing?code=x5TuG1KqsuUEbgt6kEJEGdTw14Bt62Mmw8dGVB4p&state=retryCounter%3D0%26csrfToken%3Da92acf98-5031-42b2-b937-fe05a7da409d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698922001249%26prompt%3Dnone%26cid%3Darp-82756ecd-9e5a-42e5-addd-8f439818e128
     desc: "Theories of such so-called multistable perception broadly fall into two categories: top-down theories that 
     emphasize dependence on higher-level cognitive factors such as knowledge, and bottom-up theories that suggest 
-    more vital involvement of aspects of lower-order information processing such as adaptation in the visual system. We revisited a body
-    of work that shows the occurrence of perceptual reversals to depend dramatically on the observer’s knowledge
-    that the input is, indeed, ambiguous: without such knowledge many observers in that work did not experience
-    any reversals, in apparent conflict with the idea that reversals are inevitable. We used an ambiguous animation
-    that allowed subjects to report perceptual reversals without realizing the ambiguity."
+    more vital involvement of aspects of lower-order information processing such as adaptation in the visual system. 
+    We revisited a body of work that shows the occurrence of perceptual reversals to depend dramatically on the 
+    observer’s knowledge that the input is, indeed, ambiguous: without such knowledge many observers in that work did
+     not experience any reversals, in apparent conflict with the idea that reversals are inevitable. We used an 
+     ambiguous animation that allowed subjects to report perceptual reversals without realizing the ambiguity."
 
   - title: "The pupil response to perceptual switches: What happens when you ignore them"
     url: https://jov.arvojournals.org/article.aspx?articleid=2809181
-    desc: The pupil has been found to dilate after switches in bistable perception, prompting the suggestion that norepinephrine-based neuromodulation plays a causal role in those switches. However, the pupil dilates in response to task-relevant events in general, and, in existing work, perceptual switches were typically task-relevant (e.g., they had to be reported). As such, observed switch-related dilations may have reflected nonspecific task relevance rather than switch-specific processes. Here, we measured pupil responses to perceptual switches that were task-irrelevant.
+    desc: "The pupil has been found to dilate after switches in bistable perception, prompting the suggestion that 
+    norepinephrine-based neuromodulation plays a causal role in those switches. However, the pupil dilates in response 
+    to task-relevant events in general, and, in existing work, perceptual switches were typically task-relevant 
+    (e.g., they had to be reported). As such, observed switch-related dilations may have reflected nonspecific task 
+    relevance rather than switch-specific processes. Here, we measured pupil responses to perceptual switches that were 
+    task-irrelevant."
 
   - title: Widespread lack of article accessibility policies among ecology and evolution journals
     url: https://www.nature.com/articles/s41559-025-02694-8
-    desc: Recent work has illuminated huge inequities in academic publishing based on author demographics such as assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation.
-
-  - title: Displacement-based OKN analysis
-    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
-    desc: Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability
-
-  - title: Mechanistic isolation of switch-related pupil response
-    highlight: Dissertation
-
-
-blog_entries:
-
+    desc: "Recent work has illuminated huge inequities in academic publishing based on author demographics such as 
+    assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that 
+    scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the 
+    extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of 
+    journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus 
+    primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation."
 
 
 footer_entries:

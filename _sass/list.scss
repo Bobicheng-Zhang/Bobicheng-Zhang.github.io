@@ -2,7 +2,7 @@ ul.horizontal-list {
   display: flex;
   //justify-content: space-between;
   margin-top: 0em;
-  margin-left: 40px;
+  margin-left: 20px;
   flex-wrap: wrap;
 
   li {
@@ -23,11 +23,11 @@ ul.horizontal-list {
   width: 30em;
   height: auto;
   text-align: center;
-  font-size: 1em;
+  font-size: 1.2em;
   align-items: center;
   background-color: var(--bg-secondary);
-  margin-bottom: 0.8em;
-  border-radius: 0.5em;
+  margin-bottom: 0.7em;
+  border-radius: 0.6em;
 
   .header {
     color: var(--links);
