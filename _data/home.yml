@@ -6,7 +6,7 @@ navbar_entries:
     url: http://psychology.psy.msu.edu/brascamplab/
 
   - title: About Me
-    url: https://bobicheng-zhang.github.io/about/
+    url: /about
 
 project_entries:
   - title: Binocularly-Driven Neural Responses to Chromatic Interocular-Switch Rivalry
