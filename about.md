@@ -16,4 +16,4 @@ I am also deeply committed to advocating for the disabled community here at MSU,
 
 ## Contact
 
-For research inquiries or collaborations, please visit my [contact page](/contact) or email me at zhangbob@msu.edu.
+For research inquiries or collaborations, please visit my [contact page](/contact) or email me at zhangb42@msu.edu.

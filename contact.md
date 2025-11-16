@@ -8,7 +8,7 @@ title: Contact
 I'm always interested in discussing research collaborations, speaking opportunities, or questions about bistable perception and visual neuroscience.
 
 ### Email
-**zhangbob@msu.edu**
+**zhangb42@msu.edu**
 
 ### Academic Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=b3934NoAAAAJ&hl=en&authuser=1)
