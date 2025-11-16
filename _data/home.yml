@@ -7,9 +7,34 @@ navbar_entries:
 
   - title: CV
     url: /assets/documents/cv.pdf
-    
+
   - title: About Me
     url: /about
+
+  - title: Contact
+    url: /contact
+
+featured_entries:
+
+  - title: "The pupil response to perceptual switches: What happens when you ignore them"
+    url: https://jov.arvojournals.org/article.aspx?articleid=2809181
+    desc: "The pupil has been found to dilate after switches in bistable perception, prompting the suggestion that
+    norepinephrine-based neuromodulation plays a causal role in those switches. However, the pupil dilates in response
+    to task-relevant events in general, and, in existing work, perceptual switches were typically task-relevant
+    (e.g., they had to be reported). As such, observed switch-related dilations may have reflected nonspecific task
+    relevance rather than switch-specific processes. Here, we measured pupil responses to perceptual switches that were
+    task-irrelevant."
+    highlight: Featured Research
+
+  - title: Widespread lack of article accessibility policies among ecology and evolution journals
+    url: https://www.nature.com/articles/s41559-025-02694-8
+    desc: "Recent work has illuminated huge inequities in academic publishing based on author demographics such as
+    assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that
+    scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the
+    extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of
+    journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus
+    primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation."
+    highlight: Featured Research
 
 project_entries:
 
@@ -84,6 +109,12 @@ old_project_entries:
 footer_entries:
   - title: Beau's Homepage
     url: https://www.bobicheng-zhang.github.io
+
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=b3934NoAAAAJ&hl=en&authuser=1
+
+  - title: ORCID
+    url: https://orcid.org/0000-0002-4521-7057
 
   - title: Twitter
     url: https://twitter.com/Beau_Zh
