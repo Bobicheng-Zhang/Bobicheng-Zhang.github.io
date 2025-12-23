@@ -60,6 +60,9 @@ project_entries:
     highlight: Dissertation!
 
 blog_entries:
+  - title: "Passed PhD dissertation defense"
+    desc: "Successfully defended my dissertation titled 'Dissecting the biphasic pupil signatures of perceptual switches during bistability' on December 10, 2024"
+    highlight: News
 
 old_project_entries:
 

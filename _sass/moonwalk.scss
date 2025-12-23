@@ -70,7 +70,7 @@ html {
     --text: #374151;
     --text-secondary: #6b7280;
     --links: #2c5f7c;
-    --links-bg: #b3ddf2;
+    --links-bg: transparent;
     --highlight: #FFECB2; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -80,7 +80,7 @@ html {
   html, body  {
       --headings: #74c0fc;
       --links: #91A7FF;
-      --links-bg: #323945;
+      --links-bg: transparent;
       --highlight: #41C7C7;
       --bg: #1f242A;
       --bg-secondary: #323945;
