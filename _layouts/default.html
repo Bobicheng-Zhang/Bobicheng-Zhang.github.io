@@ -2,6 +2,7 @@
 <html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
   <body>
+    <canvas id="sfm-canvas"></canvas>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
@@ -33,5 +34,6 @@
         <script async defer src="https://sdk.soopr.co/soopr.js"></script>
       {%- endif -%}
     {%- endif -%}
+    <script src="/assets/js/sfm-sphere.js"></script>
   </body>
 </html>
