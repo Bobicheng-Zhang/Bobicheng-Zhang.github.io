@@ -13,13 +13,18 @@ body {
 }
 
 #sfm-canvas {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1;
+  z-index: 1;
   pointer-events: auto;
+}
+
+#sphere-header-container {
+  position: relative;
+  overflow: visible;
 }
 pre, code {
   font-family: "Roboto Mono", "Courier New", monospace;

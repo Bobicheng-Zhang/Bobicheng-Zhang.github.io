@@ -38,16 +38,21 @@ class SFMSphere {
   }
 
   resize() {
-    this.canvas.width = window.innerWidth;
-    this.canvas.height = window.innerHeight;
+    const container = this.canvas.parentElement;
+    if (container) {
+      this.canvas.width = container.offsetWidth;
+      this.canvas.height = container.offsetHeight;
+    } else {
+      this.canvas.width = window.innerWidth;
+      this.canvas.height = window.innerHeight;
+    }
     this.updateSpherePosition();
   }
 
   updateSpherePosition() {
-    // Position sphere in upper-right area (reduces space by ~35%)
-    // This keeps sphere size same but concentrates it in smaller area
-    this.sphereCenterX = this.canvas.width * 0.75;
-    this.sphereCenterY = this.canvas.height * 0.30;
+    // Center the sphere in the container
+    this.sphereCenterX = this.canvas.width / 2;
+    this.sphereCenterY = this.canvas.height / 2;
   }
 
   initDots() {
