@@ -12,6 +12,12 @@ body {
   position: relative;
 }
 
+@media screen and (max-width: 720px) {
+  body {
+    font-size: 1rem;
+  }
+}
+
 #sfm-canvas {
   position: absolute;
   top: 0;
@@ -25,6 +31,13 @@ body {
 #sphere-header-container {
   position: relative;
   overflow: visible;
+  height: 350px;
+}
+
+@media screen and (max-width: 720px) {
+  #sphere-header-container {
+    height: 200px;
+  }
 }
 pre, code {
   font-family: "Roboto Mono", "Courier New", monospace;
@@ -51,6 +64,13 @@ li { margin: 0.4em 0; }
   max-width: 90%;
   margin: 0 auto;
   padding: 4em 2em;
+}
+
+@media screen and (max-width: 720px) {
+  .w {
+    max-width: 95%;
+    padding: 2em 1em;
+  }
 }
 
 table, th, td {

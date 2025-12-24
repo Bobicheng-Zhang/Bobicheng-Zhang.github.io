@@ -49,9 +49,14 @@ ul.horizontal-list {
     width: 100%;
     display: block;
     margin-bottom: 1em;
-    margin-left: 1em;
+    margin-left: 0;
+    padding: 1em;
+    font-size: 0.9em;
     a, .header {
       font-size: 1em;
+    }
+    .body {
+      font-size: 0.85em;
     }
   }
 }
