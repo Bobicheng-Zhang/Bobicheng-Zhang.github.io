@@ -9,6 +9,10 @@ As a cognitive neuroscience PhD candidate, I strive to understand the internal m
 
 I am also deeply committed to advocating for the disabled community here at MSU, raising awareness for, and promoting education on various visible and invisible disabilities.
 
+## Beyond Research
+
+Outside of research, I enjoy staying active through sports like badminton, table tennis, and skiing. I also have a passion for tinkering with mechanical keyboards and enjoy playing World of Warcraft in my downtime.
+
 ## Research Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=b3934NoAAAAJ&hl=en&authuser=1)

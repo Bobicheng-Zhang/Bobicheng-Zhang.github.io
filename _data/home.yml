@@ -73,28 +73,10 @@ old_project_entries:
 
   - title: Effects of Knowledge on Bistable Perception of Structure-from-Motion
     url: https://www.sciencedirect.com/user/identity/landing?code=x5TuG1KqsuUEbgt6kEJEGdTw14Bt62Mmw8dGVB4p&state=retryCounter%3D0%26csrfToken%3Da92acf98-5031-42b2-b937-fe05a7da409d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0042698922001249%26prompt%3Dnone%26cid%3Darp-82756ecd-9e5a-42e5-addd-8f439818e128
-    desc: "We revisited a body of work that shows the occurrence of perceptual reversals to depend dramatically on the 
-    observer’s knowledge that the input is, indeed, ambiguous: without such knowledge many observers in that work did
-     not experience any reversals, in apparent conflict with the idea that reversals are inevitable. We used an 
+    desc: "We revisited a body of work that shows the occurrence of perceptual reversals to depend dramatically on the
+    observer's knowledge that the input is, indeed, ambiguous: without such knowledge many observers in that work did
+     not experience any reversals, in apparent conflict with the idea that reversals are inevitable. We used an
      ambiguous animation that allowed subjects to report perceptual reversals without realizing the ambiguity."
-
-  - title: "The pupil response to perceptual switches: What happens when you ignore them"
-    url: https://jov.arvojournals.org/article.aspx?articleid=2809181
-    desc: "The pupil has been found to dilate after switches in bistable perception, prompting the suggestion that 
-    norepinephrine-based neuromodulation plays a causal role in those switches. However, the pupil dilates in response 
-    to task-relevant events in general, and, in existing work, perceptual switches were typically task-relevant 
-    (e.g., they had to be reported). As such, observed switch-related dilations may have reflected nonspecific task 
-    relevance rather than switch-specific processes. Here, we measured pupil responses to perceptual switches that were 
-    task-irrelevant."
-
-  - title: Widespread lack of article accessibility policies among ecology and evolution journals
-    url: https://www.nature.com/articles/s41559-025-02694-8
-    desc: "Recent work has illuminated huge inequities in academic publishing based on author demographics such as
-    assumed gender, geography, language and prestige. Yet, little attention has been paid to the inequities that
-    scientists with disabilities face. We reviewed the websites of 541 ecology and evolution journals to examine the
-    extent to which they prompt authors to prepare accessible manuscripts. Here we show that nearly three-quarters of
-    journals do not encourage authors to consider accessibility when preparing manuscripts. Existing guidelines focus
-    primarily on colour-blind-friendly figures, which were mentioned almost twice as often as any other recommendation."
 
   - title: Fixational saccade inhibition and pupil dilation during self-paced limb movement preparation
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335504
@@ -124,37 +106,5 @@ footer_entries:
 
   - title: LinkedIn
     url: https://www.linkedin.com/in/zbbc/
-
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: Eh
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
 
 
