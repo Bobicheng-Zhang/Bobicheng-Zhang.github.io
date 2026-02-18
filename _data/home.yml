@@ -38,21 +38,23 @@ featured_entries:
 
 project_entries:
 
-  - title: Displacement-based OKN analysis
-    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
-    desc: "Displacement-based gaze processing for optokinetic nystagmus during perceptual bistability focusing on 
-    using horizontal displacement relative to vertical displacement as a proxy for perceived direction"
-
   - title: Small Business Resilience in Colorado
     url: https://github.com/Bobicheng-Zhang/SBRI_2021-2023_analysis
-    desc: "An attempt to create a composite resilience scores for small businesses in Colorado, including components 
-    such as cultural well-being, technological adoption, individual resilience, human capital, and financial and 
-    physical health"
+    desc: "Applied consulting project creating composite resilience scores for small businesses in Colorado.
+    Integrated survey data across multiple dimensions (cultural well-being, technological adoption, individual
+    resilience, human capital, financial and physical health) to inform policy recommendations and resource allocation."
+
+  - title: Displacement-based OKN analysis
+    url: https://github.com/Bobicheng-Zhang/OKN-processing-displacement
+    desc: "Custom Python pipeline for inferring perceived visual direction from eye movements without explicit user
+    reports. Uses horizontal/vertical displacement ratios during optokinetic nystagmus—relevant to passive UX
+    measurement, accessibility tools, and AR/VR interfaces where implicit perception tracking is valuable."
 
   - title: Velocity-based OKN analysis
     url: https://github.com/Bobicheng-Zhang/OKN-processing-velocity
-    desc: "Velocity-based gaze processing for optokinetic nystagmus during perceptual bistability using velocity 
-    permutations and per-observer velocity threshold to identify perceptual switches"
+    desc: "Velocity-based gaze processing algorithm for detecting perceptual switches using per-observer thresholds
+    and velocity permutations. Demonstrates adaptive signal processing techniques applicable to real-time eye-tracking
+    applications in user research and assistive technologies."
 
   - title: Mechanistic isolation of switch-related pupil response
     desc: "Introducing disparity-simulated perceptual switches to investigate the mechanisms underlying pupil 

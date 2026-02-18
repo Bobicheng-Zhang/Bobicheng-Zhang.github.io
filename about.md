@@ -3,15 +3,28 @@ layout: post
 title: About
 ---
 
-What is happening in the brain when someone sees an optical illusion?
+I recently completed my PhD in Cognitive Neuroscience at Michigan State University (December 2025), where I studied bistable visual perception—the brain's response to ambiguous visual inputs like optical illusions. My dissertation focused on dissecting pupil signatures during perceptual switches, using eye-tracking and pupillometry to reveal underlying neural mechanisms.
 
-As a cognitive neuroscience PhD candidate, I strive to understand the internal mechanisms underlying the dynamics of this phenomenon, also known as bistable visual perception. By measuring pupil dilation and constriction, I examine the associated neural events in the brain. Simple changes in pupil signatures can be incredibly informative in revealing what neural activity is engaged when our visual system is presented with ambiguous visual inputs, like optical illusions. As a researcher, I strive to find practical and conceptual insights that can be meaningful to everyday life. Using data to identify solutions to complex problems is also important to me as a researcher.
+Beyond academic research, I've worked as a quantitative consultant with Energize Colorado, developing composite resilience scores for small businesses using survey data and multivariate analysis. This cross-functional project strengthened my skills in applied research, stakeholder communication, and translating complex data into actionable insights.
 
-I am also deeply committed to advocating for the disabled community here at MSU, raising awareness for, and promoting education on various visible and invisible disabilities.
+I'm passionate about using data to solve meaningful problems, whether that's understanding human perception, improving user experiences, or informing policy decisions. I'm currently exploring opportunities in UX research, data science, and vision science across both academia and industry, and I'm open to relocation (including internationally, such as the UK).
+
+I'm also deeply committed to disability advocacy, working to raise awareness and promote inclusive practices for visible and invisible disabilities in academic and professional settings.
+
+## Skills & Tools
+
+**Languages & Computing**
+Python (NumPy, Pandas, SciPy, scikit-learn, Matplotlib), R, MATLAB, SQL
+
+**Research Methods**
+Experimental design, survey design (Qualtrics), eye-tracking (EyeLink), pupillometry, psychophysics, statistical modeling
+
+**Analysis Techniques**
+Regression, ANOVA, mixed-effects models, PCA, signal processing, classification algorithms
 
 ## Beyond Research
 
-Outside of research, I enjoy staying active through sports like badminton, table tennis, and skiing. I also have a passion for tinkering with mechanical keyboards and enjoy playing World of Warcraft in my downtime.
+Outside of work, I enjoy staying active through badminton, table tennis, and skiing. I also have a passion for tinkering with mechanical keyboards and enjoy playing World of Warcraft in my downtime.
 
 ## Research Profiles
 
